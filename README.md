@@ -2,6 +2,10 @@
 
 Projeto de portfólio em Data Science que prevê, no momento da solicitação de um empréstimo, a probabilidade de um cliente enfrentar dificuldades de pagamento no futuro. Esse é o problema proposto pela competição [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk), disponibilizada pela Home Credit Group no Kaggle.
 
+## Notebook
+
+O Notebook do projeto pode ser acessado [aqui](https://github.com/vitorbachini/credit-risk/blob/main/notebooks/01-credit-risk.ipynb)!
+
 ## O problema de negócio
 
 A Home Credit é uma instituição financeira voltada principalmente para clientes com pouco ou nenhum histórico de crédito formal, o público conhecido como "unbanked" ou "underbanked". Prever o risco desses clientes ajuda a instituição a tomar decisões mais informadas sobre aprovação de crédito, equilibrando a inclusão financeira com a gestão de risco.
